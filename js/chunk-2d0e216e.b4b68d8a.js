@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e216e"],{"7ce1":function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("div",[e._v("MerchantTariff")])},c=[],r={name:"MerchantTariff"},i=r,u=a("2877"),f=Object(u["a"])(i,t,c,!1,null,"5a52598b",null);n["default"]=f.exports}}]);

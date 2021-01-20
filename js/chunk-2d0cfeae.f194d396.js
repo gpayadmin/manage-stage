@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cfeae"],{6680:function(e,c,n){"use strict";n.r(c);var t=function(){var e=this,c=e.$createElement,n=e._self._c||c;return n("div",[e._v("AcceptorTariff")])},a=[],r={name:"AcceptorTariff"},f=r,i=n("2877"),o=Object(i["a"])(f,t,a,!1,null,"2a56e2e5",null);c["default"]=o.exports}}]);

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0af2f6"],{"0cf3":function(e,n,c){"use strict";c.r(n);var t=function(){var e=this,n=e.$createElement,c=e._self._c||n;return c("div",[e._v("DepositRecord")])},o=[],a={name:"DepositRecord"},r=a,s=c("2877"),f=Object(s["a"])(r,t,o,!1,null,"1a6fd8cf",null);n["default"]=f.exports}}]);
