@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2102e9"],{b797:function(e,n,r){"use strict";r.r(n);var a=function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("div",[e._v("AppealOrder")])},t=[],p={name:"AppealOrder"},c=p,l=r("2877"),u=Object(l["a"])(c,a,t,!1,null,"5f61d8a2",null);n["default"]=u.exports}}]);
