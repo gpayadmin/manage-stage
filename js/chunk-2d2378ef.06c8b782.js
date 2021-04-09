@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2378ef"],{fc40:function(e,c,n){"use strict";n.r(c);var t=function(){var e=this,c=e.$createElement,n=e._self._c||c;return n("div",[e._v("AcceptorTariff")])},r=[],a={name:"AcceptorTariff"},f=a,i=n("2877"),o=Object(i["a"])(f,t,r,!1,null,"448c668d",null);c["default"]=o.exports}}]);
